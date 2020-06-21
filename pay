@@ -1,0 +1,14 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg"
+        "tag:": "147352386"
+      }
+    }
+  ],
+  "payId": "pay$perldude69.github.io"
+}
